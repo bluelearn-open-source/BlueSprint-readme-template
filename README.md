@@ -3,7 +3,7 @@ Please follow this template for project submission.
 
 # Project Name
 
-## Aboout the Project
+## About the Project
 // here goes a short description
 
 ## Technologies used
